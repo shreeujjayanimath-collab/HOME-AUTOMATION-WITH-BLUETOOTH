@@ -1,3 +1,15 @@
 # HOME-AUTOMATION-WITH-BLUETOOTH
 
+COMPANY:CODTECH IT SOLUTIONS
+
+Name: Bhagyashree S Ujjayanimath
+
+Intern ID :CT04DY569
+
+Domain: Embedded system
+
+Duration:4 weeks
+
+Mentor : Neela Santosh
+
 DESIGN A BLUETOOTH-CONTROLLED HOME AUTOMATION SYSTEM TO SWITCH DEVICES ON AND OFF. 
